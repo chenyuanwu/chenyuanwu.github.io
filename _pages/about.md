@@ -14,15 +14,15 @@ I will join UPenn as an PhD student at Computer and Information Science Departme
 
 **Provenance for Probabilistic Logic Programs** <br />
 Shaobo Wang, Hui Lyu, Jiachi Zhang, **Chenyuan Wu**, Xinyi Chen, Wenchao Zhou, Boon Thau Loo, Susan B. Davidson, and Chen Chen <br />
-In International Conference on Extending Database Technology (EDBT), 2020. **Best Paper Award**.
+_In International Conference on Extending Database Technology (EDBT), 2020. **Best Paper Award**._
 
 **Synthesizing Verifiable DSL Programs from SDNController Applications** <br />
 Haoxian Chen, **Chenyuan Wu**, Manqiu Zhang, Yahui Li, Zhijia Chen, Boon Thau Loo, Mayur Naik, and Mukund Raghothaman <br />
-Submitted to ACM SIGCOMM, 2020.
+_Submitted to ACM SIGCOMM, 2020._
 
 **Rethink the Bandwidth-based Startup Mechanism of BBR-like CCAs** <br />
 Anmin Xu, Delei Yu, Chuang Wang, **Chenyuan Wu**, Lili Liu and Jinlong Li <br />
-Submitted to IEEE Symposium on Computers and Communications (ISCC), 2020.
+_Submitted to IEEE Symposium on Computers and Communications (ISCC), 2020._
 
 ## Experiences
 
