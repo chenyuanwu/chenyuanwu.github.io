@@ -12,10 +12,8 @@ I will join UPenn as an PhD student at Computer and Information Science Departme
 
 ## Papers
 
-**Provenance for Probabilistic Logic Programs**
-
+**Provenance for Probabilistic Logic Programs** <br />
 Shaobo Wang, Hui Lyu, Jiachi Zhang, **Chenyuan Wu**, Xinyi Chen, Wenchao Zhou, Boon Thau Loo, Susan B. Davidson, and Chen Chen
-
 In International Conference on Extending Database Technology (EDBT), 2020. **Best Paper Award**.
 
 **Synthesizing Verifiable DSL Programs from SDNController Applications**
