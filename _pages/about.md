@@ -16,7 +16,7 @@ I will join UPenn as an PhD student at Computer and Information Science Departme
 Shaobo Wang, Hui Lyu, Jiachi Zhang, **Chenyuan Wu**, Xinyi Chen, Wenchao Zhou, Boon Thau Loo, Susan B. Davidson, and Chen Chen <br />
 _In International Conference on Extending Database Technology (EDBT), 2020. **Best Paper Award**._
 
-**Synthesizing Verifiable DSL Programs from SDNController Applications** <br />
+**Synthesizing Verifiable DSL Programs from SDN Controller Applications** <br />
 Haoxian Chen, **Chenyuan Wu**, Manqiu Zhang, Yahui Li, Zhijia Chen, Boon Thau Loo, Mayur Naik, and Mukund Raghothaman <br />
 _Submitted to ACM SIGCOMM, 2020._
 
@@ -25,4 +25,23 @@ Anmin Xu, Delei Yu, Chuang Wang, **Chenyuan Wu**, Lili Liu and Jinlong Li <br />
 _Submitted to IEEE Symposium on Computers and Communications (ISCC), 2020._
 
 ## Experiences
+
+**[Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Feb. 2020 - Now** <br />
+Research Intern, ICE group <br />
+Advisor: [Mike Chieh-Jan Liang](https://www.microsoft.com/en-us/research/people/cmliang/)
+
+**Huawei 2012 Labs (Central Research Institute), Nov. 2019 - Jan. 2020** <br />
+Research Intern, Network Technology Lab <br />
+Advisor: Delei Yu
+
+**[University of Pennsylvania](https://www.upenn.edu), Jun. 2019 - Sept. 2019** <br />
+Research Assistant, Distributed Systems Lab <br />
+Advisor: [Boon Thau Loo](https://boonloo.cis.upenn.edu)
+
+## Awards
+
+* President’s Scholarship in Beijing Jiaotong University (10 out of 15,000), 2019
+* Chinese National Scholarship, 2019
+* Chinese National Scholarship, 2017
+* Second Prize in the National College Physics Competition, 2017
 
