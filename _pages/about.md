@@ -21,7 +21,7 @@ Haoxian Chen, **Chenyuan Wu**, Manqiu Zhang, Yahui Li, Zhijia Chen, Boon Thau Lo
 _Submitted to ACM SIGCOMM, 2020._
 
 **Rethink the Bandwidth-based Startup Mechanism of BBR-like CCAs** <br />
-Anmin Xu, Delei Yu, Chuang Wang, **Chenyuan Wu**, Lili Liu and Jinlong Li <br />
+Anmin Xu, Delei Yu, Chuang Wang, **Chenyuan Wu**, Lili Liu, and Jinlong Li <br />
 _Submitted to IEEE Symposium on Computers and Communications (ISCC), 2020._
 
 ## Experiences
