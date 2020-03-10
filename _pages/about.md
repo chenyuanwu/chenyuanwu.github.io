@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join UPenn in Fall 2020 as an PhD student in Computer and Information Science Department, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). Before that, I had undergraduate education with highest honors in EE department of Beijing Jiaotong University. My research interest lies in ML/DL augmented system design and covers the broad areas of networked systems including software defined networking and networking protocols.
+I will join UPenn in Fall 2020 as a PhD student in Computer and Information Science Department, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). Before that, I had undergraduate education with highest honors in EE department of Beijing Jiaotong University. My research interest lies in ML/DL augmented system design and covers the broad areas of networked systems including network security, software defined networking and networking protocols.
 
 ## Papers
 
