@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join UPenn in Fall 2020 as a PhD student in Computer and Information Science Department, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). Before that, I had undergraduate education with highest honors in EE department of Beijing Jiaotong University (BJTU). My research interest lies in ML/DL augmented system design and covers the broad areas of networked systems including network security, software defined networking and networking protocols.
+I am an incoming Ph.D. student studying Computer Science at UPenn, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). Before that, I completed my B.E. in Electrical Engineering with highest honors at Beijing Jiaotong University. Currently, I am intersted in practically applying machine learning to networked systems, seeking to secure better robustness and performance for systems, and higher efficiency for operators. My research covers the broad areas of networked systems, including protocols, fault detection, and software defined networking.
 
 ## Papers
 
@@ -18,29 +18,30 @@ _In International Conference on Extending Database Technology (EDBT), 2020. **Be
 
 **Synthesizing Verifiable DSL Programs from SDN Controller Applications** <br />
 Haoxian Chen, **Chenyuan Wu**, Manqiu Zhang, Yahui Li, Zhijia Chen, Boon Thau Loo, Mayur Naik, and Mukund Raghothaman <br />
-_Submitted to ACM SIGCOMM, 2020._
-
-**Rethink the Bandwidth-based Startup Mechanism of BBR-like CCAs** <br />
-Anmin Xu, Delei Yu, Chuang Wang, **Chenyuan Wu**, Lili Liu, and Jinlong Li <br />
-_Submitted to IEEE Symposium on Computers and Communications (ISCC), 2020._
+_Submitted to ACM SoCC, 2020._
 
 ## Experiences
 
-**[Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Feb. 2020 - Now** <br />
-Research Intern, ICE group <br />
-Advisor: [Mike Chieh-Jan Liang](https://www.microsoft.com/en-us/research/people/cmliang/)
+**Microsoft Research Redmond, Apr. 2020 - Jun. 2020** <br />
+Contractor, Mobility and Networking Group <br />
 
 **Huawei 2012 Labs (Central Research Institute), Nov. 2019 - Jan. 2020** <br />
 Research Intern, Network Technology Lab <br />
-Advisor: Delei Yu
+Advisor: [Delei Yu](https://www.linkedin.com/in/delei-yu-97618232/)
 
-**[University of Pennsylvania](https://www.upenn.edu), Jun. 2019 - Sept. 2019** <br />
+**University of Pennsylvania, Jun. 2019 - Sept. 2019** <br />
 Research Assistant, Distributed Systems Lab <br />
 Advisor: [Boon Thau Loo](https://boonloo.cis.upenn.edu)
 
+## Teaching & Activities
+
+* Conference Reviewer: served as the secondary reviewer of CoNEXT'2020.
+
 ## Awards
 
-* Chancellor’s Scholarship in BJTU (10 out of 15,000), 2019
+* President’s Scholarship in Beijing Jiaotong University (10 out of 15,000), 2019
 * Chinese National Scholarship, 2019
 * Chinese National Scholarship, 2017
 * Second Prize in the National College Physics Competition, 2017
+
+
