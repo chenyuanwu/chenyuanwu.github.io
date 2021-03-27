@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D. student studying Computer Science at UPenn, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). Before that, I completed my B.E. in Electrical Engineering with highest honors at Beijing Jiaotong University. Currently, I am intersted in practically applying machine learning to networked systems, seeking to secure better robustness and performance for systems, and higher efficiency for operators. My research covers the broad areas of networked systems, including protocols, fault detection, and software defined networking.
+I am a first year Ph.D. student studying Computer Science at UPenn, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). Before that, I completed my B.E. in Electrical Engineering with highest honors at Beijing Jiaotong University. Currently, I am intersted in practically applying machine learning to solve problems in computer systems.
 
 ## Papers
 
@@ -33,9 +33,6 @@ Advisor: [Delei Yu](https://www.linkedin.com/in/delei-yu-97618232/)
 Research Assistant, Distributed Systems Lab <br />
 Advisor: [Boon Thau Loo](https://boonloo.cis.upenn.edu)
 
-## Teaching & Activities
-
-* Conference Reviewer: served as the secondary reviewer of CoNEXT'2020.
 
 ## Awards
 
