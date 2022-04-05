@@ -30,3 +30,11 @@ Advisor: [Delei Yu](https://www.linkedin.com/in/delei-yu-97618232/)
 **University of Pennsylvania, Jun. 2019 - Sept. 2019** <br />
 Research Assistant, Distributed Systems Lab <br />
 Advisor: [Boon Thau Loo](https://boonloo.cis.upenn.edu)
+
+
+## Awards
+* PhD Fellowship in University of Pennsylvania, 2020
+* President’s Scholarship in Beijing Jiaotong University (10 out of 15,000), 2019
+* Chinese National Scholarship, 2019
+* Chinese National Scholarship, 2017
+* Second Prize in the National College Physics Competition, 2017
