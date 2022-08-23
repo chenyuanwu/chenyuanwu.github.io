@@ -24,7 +24,7 @@ Shaobo Wang, Hui Lyu, Jiachi Zhang, **Chenyuan Wu**, Xinyi Chen, Wenchao Zhou, B
 _23rd International Conference on Extending Database Technology, (EDBT), Apr 2020. **Best Paper Award**._
 
 ## Teaching
-**Course Designer and Teaching Assistant**
+**Course Designer and Teaching Assistant** <br />
 CIS 553 online: Networked Systems, Fall 2021, Spring 2022 
 
 ## Experiences
