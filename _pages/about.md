@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student studying Computer Science at UPenn, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Dr. Mohammad Javad Amiri](https://sites.cs.ucsb.edu/~amiri/). Before that, I completed my B.E. in Electrical Engineering with highest honors at Beijing Jiaotong University. My research focuses on blockchains, resource disaggregation, and machine learning in computer systems.
+I am a rising third year Ph.D. student studying Computer Science at UPenn, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Dr. Mohammad Javad Amiri](https://sites.cs.ucsb.edu/~amiri/). Before that, I completed my B.E. in Electrical Engineering with highest honors at Beijing Jiaotong University. My research focuses on blockchains, resource disaggregation, and machine learning in computer systems.
 
 ## Papers
 **FlexChain: An Elastic Disaggregated Blockchain** <br />
