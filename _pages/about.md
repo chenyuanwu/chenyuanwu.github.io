@@ -13,7 +13,7 @@ I am a third year Ph.D. student studying Computer Science at UPenn, advised by [
 ## Papers
 **AdaChain: A Learned Adaptive Blockchain** <br />
 **Chenyuan Wu**, Bhavana Mehta, Mohammad Javad Amiri, Ryan Marcus, and Boon Thau Loo <br />
-_arXiv Preprint_ [pdf](https://arxiv.org/abs/2211.01580).
+_arXiv Preprint_ [[pdf]](https://arxiv.org/abs/2211.01580).
 
 **FlexChain: An Elastic Disaggregated Blockchain** <br />
 **Chenyuan Wu**, Mohammad Javad Amiri, Jared Asch, Heena Nagda, Qizhen Zhang, and Boon Thau Loo <br />
