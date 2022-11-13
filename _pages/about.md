@@ -40,10 +40,6 @@ CIS 553 online: Networked Systems, Fall 2021, Spring 2022
 Research Intern, Network Technology Lab <br />
 Advisor: [Delei Yu](https://www.linkedin.com/in/delei-yu-97618232/)
 
-**University of Pennsylvania, Jun. 2019 - Sept. 2019** <br />
-Research Assistant, Distributed Systems Lab <br />
-Advisor: [Boon Thau Loo](https://boonloo.cis.upenn.edu)
-
 ## Service
 * External Reviewer: ICDE 2023, WORDS 2021, CoNEXT 2020
 * Organizer: Penn DSL Seminar
