@@ -15,6 +15,10 @@ I am a third year Ph.D. student studying Computer Science at UPenn, advised by [
 **Chenyuan Wu**, Bhavana Mehta, Mohammad Javad Amiri, Ryan Marcus, and Boon Thau Loo <br />
 _arXiv Preprint_ [[pdf]](https://arxiv.org/abs/2211.01580).
 
+**The Bedrock of Byzantine Fault Tolerance: A Unified Platform for BFT Protocol Design and Implementation** <br />
+Mohammad Javad Amiri, **Chenyuan Wu**, Divyakant Agrawal, Amr El Abbadi, Boon Thau Loo, and Mohammad Sadoghi <br />
+_arXiv Preprint_ [[pdf]](https://arxiv.org/abs/2205.04534).
+
 **FlexChain: An Elastic Disaggregated Blockchain** <br />
 **Chenyuan Wu**, Mohammad Javad Amiri, Jared Asch, Heena Nagda, Qizhen Zhang, and Boon Thau Loo <br />
 _49th conference on Very Large Databases (VLDB), Aug 2023._
