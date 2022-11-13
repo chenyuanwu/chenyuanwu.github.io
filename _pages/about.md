@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising third year Ph.D. student studying Computer Science at UPenn, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Dr. Mohammad Javad Amiri](https://sites.cs.ucsb.edu/~amiri/). Before that, I completed my B.E. in Electrical Engineering with highest honors at Beijing Jiaotong University. My research focuses on blockchains, resource disaggregation, and machine learning in computer systems.
+I am a third year Ph.D. student studying Computer Science at UPenn, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Dr. Mohammad Javad Amiri](https://sites.cs.ucsb.edu/~amiri/). Before that, I completed my B.E. in Electrical Engineering with highest honors at Beijing Jiaotong University. My research focuses on blockchains, resource disaggregation, and machine learning in data management systems.
 
 ## Papers
+**AdaChain: A Learned Adaptive Blockchain** <br />
+**Chenyuan Wu**, Bhavana Mehta, Mohammad Javad Amiri, Ryan Marcus, and Boon Thau Loo <br />
+_arXiv Preprint_ [pdf](https://arxiv.org/abs/2211.01580).
+
 **FlexChain: An Elastic Disaggregated Blockchain** <br />
 **Chenyuan Wu**, Mohammad Javad Amiri, Jared Asch, Heena Nagda, Qizhen Zhang, and Boon Thau Loo <br />
-_49th conference on Very Large Databases (VLDB), Aug 2023 [To appear]_.
+_49th conference on Very Large Databases (VLDB), Aug 2023._
 
 **Synthesizing Formal Network Specifications from Input-Output Examples** <br />
 Haoxian Chen, **Chenyuan Wu**, Andrew Zhao, Mukund Raghothaman, Mayur Naik, and Boon Thau Loo <br />
