@@ -35,10 +35,10 @@ _23rd International Conference on Extending Database Technology, (EDBT), Apr 202
 **Course Designer and Teaching Assistant** <br />
 CIS 553 online: Networked Systems, Fall 2021, Spring 2022 
 
-## Experiences
+<!-- ## Experiences
 **Huawei 2012 Labs (Central Research Institute), Nov. 2019 - Jan. 2020** <br />
 Research Intern, Network Technology Lab <br />
-Advisor: [Delei Yu](https://www.linkedin.com/in/delei-yu-97618232/)
+Advisor: [Delei Yu](https://www.linkedin.com/in/delei-yu-97618232/) -->
 
 ## Service
 * External Reviewer: ICDE 2023, WORDS 2021, CoNEXT 2020
