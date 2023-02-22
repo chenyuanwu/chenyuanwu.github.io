@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student studying Computer Science at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Dr. Mohammad Javad Amiri](https://sites.cs.ucsb.edu/~amiri/) and [Prof. Ryan Marcus](https://rmarcus.info/blog/). My current research focuses on blockchains and machine learning in data management systems.
+I am a third year Ph.D. student studying computer science at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Dr. Mohammad Javad Amiri](https://sites.cs.ucsb.edu/~amiri/) and [Prof. Ryan Marcus](https://rmarcus.info/blog/). My current research focuses on blockchains and machine learning in data management systems.
 
 ## Papers
 **AdaChain: A Learned Adaptive Blockchain** <br />
