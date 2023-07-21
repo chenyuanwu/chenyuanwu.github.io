@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student studying computer science at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Dr. Mohammad Javad Amiri](https://sites.cs.ucsb.edu/~amiri/) and [Prof. Ryan Marcus](https://rmarcus.info/blog/). My current research focuses on blockchains and machine learning in data management systems.
+I am a third year Ph.D. student studying computer science at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Mohammad Javad Amiri](https://sites.cs.ucsb.edu/~amiri/) and [Prof. Ryan Marcus](https://rmarcus.info/blog/). My current research focuses on blockchains and machine learning in data management systems.
 
 ## Papers
-**The Bedrock of Byzantine Fault Tolerance: A Unified Platform for BFT Protocol Design and Implementation** <br />
+**The Bedrock of Byzantine Fault Tolerance: A Unified Platform for BFT Protocols Analysis, Implementation, and Experimentation** <br />
 Mohammad Javad Amiri, **Chenyuan Wu**, Divyakant Agrawal, Amr El Abbadi, Boon Thau Loo, and Mohammad Sadoghi <br />
-_arXiv Preprint_ [[pdf]](https://arxiv.org/abs/2205.04534).
+_21st USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2024._
 
 **AdaChain: A Learned Adaptive Blockchain** <br />
 **Chenyuan Wu**, Bhavana Mehta, Mohammad Javad Amiri, Ryan Marcus, and Boon Thau Loo <br />
@@ -41,11 +41,12 @@ Research Intern, Network Technology Lab <br />
 Advisor: [Delei Yu](https://www.linkedin.com/in/delei-yu-97618232/) -->
 
 ## Service
-* Journal Reviewer: Transactions on Storage 
+* Journal Reviewer: Transactions on Storage, Transactions on Dependable and Secure Computing
 * External Reviewer: CIKM 2022, WORDS 2021, CoNEXT 2020
 * Organizer: Penn DSL Seminar
 
 ## Awards
+* VLDB Travel Award, 2023
 * PhD Fellowship in University of Pennsylvania, 2020
 * President’s Scholarship in Beijing Jiaotong University (10 out of 15,000), 2019
 * Chinese National Scholarship, 2019
