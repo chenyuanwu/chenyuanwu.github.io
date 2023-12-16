@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student studying computer science at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Mohammad Javad Amiri](https://sites.cs.ucsb.edu/~amiri/) and [Prof. Ryan Marcus](https://rmarcus.info/blog/). My current research focuses on blockchains and machine learning in data management systems.
+I am a fourth year Ph.D. student studying computer science at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (UCSB & Chainlink Labs)](https://malkhi.com/about/), [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/) and [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/). My current research focuses on building the next generation of consensus and blockchain systems that are adaptive and smart.
 
 ## Papers
+**Towards Full Stack Adaptivity in Permissioned Blockchains** <br />
+**Chenyuan Wu**, Mohammad Javad Amiri, Haoyun Qin, Bhavana Mehta, Ryan Marcus, Boon Thau Loo <br />
+_50th conference on Very Large Databases (VLDB), Aug 2024._
+
 **The Bedrock of Byzantine Fault Tolerance: A Unified Platform for BFT Protocols Analysis, Implementation, and Experimentation** <br />
 Mohammad Javad Amiri, **Chenyuan Wu**, Divyakant Agrawal, Amr El Abbadi, Boon Thau Loo, and Mohammad Sadoghi <br />
 _21st USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2024._
@@ -35,10 +39,10 @@ _23rd International Conference on Extending Database Technology, (EDBT), Apr 202
 **Course Designer and Teaching Assistant** <br />
 CIS 553 online: Networked Systems, Fall 2021, Spring 2022 
 
-<!-- ## Experiences
-**Huawei 2012 Labs (Central Research Institute), Nov. 2019 - Jan. 2020** <br />
-Research Intern, Network Technology Lab <br />
-Advisor: [Delei Yu](https://www.linkedin.com/in/delei-yu-97618232/) -->
+## Experiences
+**Chainlink Labs, May 2023 - Dec. 2023** <br />
+Research Intern <br />
+Mentor: Dahlia Malkhi
 
 ## Service
 * Journal Reviewer: Transactions on Storage, Transactions on Dependable and Secure Computing
