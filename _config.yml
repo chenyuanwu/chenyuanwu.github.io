@@ -12,7 +12,7 @@ title                    : "Chenyuan Wu"
 title_separator          : "-"
 name                     : &name "Chenyuan Wu"
 description              : &description "PhD Student in UPenn"
-url                      : "https://chenyuanwu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://chenyuanwu.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenyuanwu.github.io"
 
