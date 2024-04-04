@@ -10,6 +10,13 @@ redirect_from:
 
 I am a fourth year Ph.D. student studying computer science at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (UCSB & Chainlink Labs)](https://malkhi.com/about/), [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/) and [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/). My current research focuses on building the next generation of consensus and blockchain systems that are adaptive and smart.
 
+## Preprints
+**BFTBrain: Adaptive BFT Consensus with Reinforcement Learning**
+**Chenyuan Wu**, Haoyun Qin, Mohammad Javad Amiri, Boon Thau Loo, Dahlia Malkhi, Ryan Marcus <br />
+
+**BFTGym: An Interactive Playground for BFT Protocols**
+Haoyun Qin, **Chenyuan Wu**, Mohammad Javad Amiri, Ryan Marcus, Boon Thau Loo <br />
+
 ## Papers
 **Towards Full Stack Adaptivity in Permissioned Blockchains** <br />
 **Chenyuan Wu**, Mohammad Javad Amiri, Haoyun Qin, Bhavana Mehta, Ryan Marcus, Boon Thau Loo <br />
@@ -35,14 +42,14 @@ _IEEE/ACM Transactions on Networking (ToN), 2022._
 Shaobo Wang, Hui Lyu, Jiachi Zhang, **Chenyuan Wu**, Xinyi Chen, Wenchao Zhou, Boon Thau Loo, Susan B. Davidson, and Chen Chen <br />
 _23rd International Conference on Extending Database Technology, (EDBT), Apr 2020. **Best Paper Award**._
 
-## Teaching
-**Course Designer and Teaching Assistant** <br />
-CIS 553 online: Networked Systems, Fall 2021, Spring 2022 
-
 ## Experiences
 **Chainlink Labs, May 2023 - Dec. 2023** <br />
 Research Intern <br />
 Mentor: Dahlia Malkhi
+
+## Teaching
+**Course Designer and Teaching Assistant** <br />
+CIS 553 online: Networked Systems, Fall 2021, Spring 2022 
 
 ## Service
 * Journal Reviewer: Transactions on Storage, Transactions on Dependable and Secure Computing
