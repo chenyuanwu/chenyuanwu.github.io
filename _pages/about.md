@@ -24,7 +24,7 @@ _50th conference on Very Large Databases (VLDB), Aug 2024._
 
 **The Bedrock of Byzantine Fault Tolerance: A Unified Platform for BFT Protocols Analysis, Implementation, and Experimentation** <br />
 Mohammad Javad Amiri, **Chenyuan Wu**, Divyakant Agrawal, Amr El Abbadi, Boon Thau Loo, and Mohammad Sadoghi <br />
-_21st USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2024. 🔥**Outstanding Paper Award**._
+_21st USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2024. 🏆**Outstanding Paper Award**._
 
 **AdaChain: A Learned Adaptive Blockchain** <br />
 **Chenyuan Wu**, Bhavana Mehta, Mohammad Javad Amiri, Ryan Marcus, and Boon Thau Loo <br />
@@ -40,7 +40,7 @@ _IEEE/ACM Transactions on Networking (ToN), 2022._
 
 **Provenance for Probabilistic Logic Programs** <br />
 Shaobo Wang, Hui Lyu, Jiachi Zhang, **Chenyuan Wu**, Xinyi Chen, Wenchao Zhou, Boon Thau Loo, Susan B. Davidson, and Chen Chen <br />
-_23rd International Conference on Extending Database Technology, (EDBT), Apr 2020. :trophy: **Best Paper Award**._
+_23rd International Conference on Extending Database Technology, (EDBT), Apr 2020. 🏆**Best Paper Award**._
 
 ## Experiences
 **Chainlink Labs, May 2023 - Dec. 2023** <br />
