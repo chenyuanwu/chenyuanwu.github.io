@@ -40,7 +40,7 @@ _IEEE/ACM Transactions on Networking (ToN), 2022._
 
 **Provenance for Probabilistic Logic Programs** <br />
 Shaobo Wang, Hui Lyu, Jiachi Zhang, **Chenyuan Wu**, Xinyi Chen, Wenchao Zhou, Boon Thau Loo, Susan B. Davidson, and Chen Chen <br />
-_23rd International Conference on Extending Database Technology, (EDBT), Apr 2020. **Best Paper Award**._
+_23rd International Conference on Extending Database Technology, (EDBT), Apr 2020. :trophy: **Best Paper Award**._
 
 ## Experiences
 **Chainlink Labs, May 2023 - Dec. 2023** <br />
