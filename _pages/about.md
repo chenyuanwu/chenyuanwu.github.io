@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student studying computer science at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (UCSB & Chainlink Labs)](https://malkhi.com/about/), [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/) and [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/). My current research focuses on building the next generation of consensus and blockchain systems that are adaptive and smart.
+I am a final year computer science Ph.D. candidate at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (UCSB & Chainlink Labs)](https://malkhi.com/about/), [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/) and [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/). My current research focuses on building the next generation of consensus and blockchain systems that are adaptive and smart.
 
 ## Preprints
 **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning** <br />
