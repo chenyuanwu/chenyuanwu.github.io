@@ -17,10 +17,11 @@ I am a final year computer science Ph.D. candidate at University of Pennsylvania
 **On Orchestrating Parallel Broadcasts for Distributed Ledgers** <br />
 Peiyao Sheng, **Chenyuan Wu**, Dahlia Malkhi, Michael K. Reiter, Chrysoula Stathakopoulou, Michael Wei, Maofan Yin <br />
 
+## Papers
 **BFTGym: An Interactive Playground for BFT Protocols** <br />
 Haoyun Qin, **Chenyuan Wu**, Mohammad Javad Amiri, Ryan Marcus, Boon Thau Loo <br />
+_50th conference on Very Large Databases (VLDB), Aug 2024._
 
-## Papers
 **Towards Full Stack Adaptivity in Permissioned Blockchains** <br />
 **Chenyuan Wu**, Mohammad Javad Amiri, Haoyun Qin, Bhavana Mehta, Ryan Marcus, Boon Thau Loo <br />
 _50th conference on Very Large Databases (VLDB), Aug 2024._
