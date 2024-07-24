@@ -11,13 +11,14 @@ redirect_from:
 I am a final year computer science Ph.D. candidate at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/) and [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/). My research focuses on the intersection of AI and databases, represented by the next generation of AI-driven distributed ledgers that are adaptive and smart. These projects resulted in numerous publications at top database/systems conferences and several best paper awards (NSDI, EDBT). I am currently on a revolutionary entrepreneurial journey and is expected to graduate this September.
 
 ## Preprints
-**BFTBrain: Adaptive BFT Consensus with Reinforcement Learning** <br />
-**Chenyuan Wu**, Haoyun Qin, Mohammad Javad Amiri, Boon Thau Loo, Dahlia Malkhi, Ryan Marcus <br />
-
 **On Orchestrating Parallel Broadcasts for Distributed Ledgers** <br />
 Peiyao Sheng, **Chenyuan Wu**, Dahlia Malkhi, Michael K. Reiter, Chrysoula Stathakopoulou, Michael Wei, Maofan Yin <br />
 
 ## Papers
+**BFTBrain: Adaptive BFT Consensus with Reinforcement Learning** <br />
+**Chenyuan Wu**, Haoyun Qin, Mohammad Javad Amiri, Boon Thau Loo, Dahlia Malkhi, Ryan Marcus <br />
+_22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2025._
+
 **BFTGym: An Interactive Playground for BFT Protocols** <br />
 Haoyun Qin, **Chenyuan Wu**, Mohammad Javad Amiri, Ryan Marcus, Boon Thau Loo <br />
 _50th conference on Very Large Databases (VLDB), Aug 2024._
