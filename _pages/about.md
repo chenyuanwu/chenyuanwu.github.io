@@ -27,6 +27,10 @@ _50th conference on Very Large Databases (VLDB), Aug 2024._
 **Chenyuan Wu**, Mohammad Javad Amiri, Haoyun Qin, Bhavana Mehta, Ryan Marcus, Boon Thau Loo <br />
 _50th conference on Very Large Databases (VLDB), Aug 2024._
 
+**Towards Truly Adaptive Byzantine Fault-Tolerant Consensus** <br />
+**Chenyuan Wu**, Haoyun Qin, Mohammad Javad Amiri, Boon Thau Loo, Dahlia Malkhi, Ryan Marcus <br />
+_ACM SIGOPS Operating Systems Review, Aug 2024._
+
 **The Bedrock of Byzantine Fault Tolerance: A Unified Platform for BFT Protocols Analysis, Implementation, and Experimentation** <br />
 Mohammad Javad Amiri, **Chenyuan Wu**, Divyakant Agrawal, Amr El Abbadi, Boon Thau Loo, and Mohammad Sadoghi <br />
 _21st USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2024. <br />
