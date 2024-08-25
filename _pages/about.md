@@ -55,7 +55,7 @@ _23rd International Conference on Extending Database Technology, (EDBT), Apr 202
 🏆**Best Paper Award**._
 
 ## Experiences
-**Nimble Ledgers, Jan. 2023 - Present** <br />
+**Nimble Ledgers, Jan. 2024 - Present** <br />
 Co-founder and CEO
 
 **Chainlink Labs, May 2023 - Dec. 2023** <br />
