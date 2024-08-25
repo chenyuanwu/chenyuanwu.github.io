@@ -13,6 +13,7 @@ I am a final year computer science Ph.D. candidate at University of Pennsylvania
 ## Preprints
 **On Orchestrating Parallel Broadcasts for Distributed Ledgers** <br />
 Peiyao Sheng\*, **Chenyuan Wu**\*, Dahlia Malkhi, Michael K. Reiter, Chrysoula Stathakopoulou, Michael Wei, Maofan Yin <br />
+_*Both authors contributed equally._
 
 ## Papers
 **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning** <br />
