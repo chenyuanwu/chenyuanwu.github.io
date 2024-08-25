@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year computer science Ph.D. candidate at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/) and [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/). My research focuses on the intersection of AI and databases, represented by the next generation of AI-driven distributed ledgers that are adaptive and smart. These projects resulted in numerous publications at top database/systems conferences and several best paper awards (NSDI, EDBT). I am currently on a revolutionary entrepreneurial journey and is expected to graduate this September.
+I am a final year computer science Ph.D. candidate at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/) and [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/). My research focuses on the intersection of AI and databases, represented by the next generation of AI-driven distributed ledgers that are adaptive and smart. 
 
 ## Preprints
 **On Orchestrating Parallel Broadcasts for Distributed Ledgers** <br />
-Peiyao Sheng, **Chenyuan Wu**, Dahlia Malkhi, Michael K. Reiter, Chrysoula Stathakopoulou, Michael Wei, Maofan Yin <br />
+Peiyao Sheng\*, **Chenyuan Wu**, Dahlia Malkhi, Michael K. Reiter, Chrysoula Stathakopoulou, Michael Wei, Maofan Yin <br />
 
 ## Papers
 **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning** <br />
