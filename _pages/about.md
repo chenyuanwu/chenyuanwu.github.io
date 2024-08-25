@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year computer science Ph.D. candidate at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/) and [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/). My research focuses on the intersection of AI and databases, represented by the next generation of AI-driven distributed ledgers that are adaptive and smart. 
+I am a final year computer science Ph.D. candidate at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/) and [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/). My research focuses on the intersection of AI and data management, represented by the next generation of AI-driven distributed ledgers that are adaptive and smart. 
 
 ## Preprints
 **On Orchestrating Parallel Broadcasts for Distributed Ledgers** <br />
@@ -55,6 +55,9 @@ _23rd International Conference on Extending Database Technology, (EDBT), Apr 202
 🏆**Best Paper Award**._
 
 ## Experiences
+**Nimble Ledgers, Jan. 2023 - Present** <br />
+Co-founder and CEO
+
 **Chainlink Labs, May 2023 - Dec. 2023** <br />
 Research Intern <br />
 Mentor: Dahlia Malkhi
