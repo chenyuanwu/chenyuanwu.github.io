@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year computer science Ph.D. candidate at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/) and [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/). My research focuses on the intersection of AI and data management, represented by the next generation of AI-driven distributed ledgers that are adaptive and smart. 
+I am a final year computer science Ph.D. candidate at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I am a member of the Penn Database Group and the Distributed Systems Lab. I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/) and [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/). My research interest mainly lies in distributed data management, consensus protocols, and blockchains. I am especially interested in using machine learning to build the next generation of distributed ledgers that are adaptive and smart. 
 
 ## Preprints
 **On Orchestrating Parallel Broadcasts for Distributed Ledgers** <br />
@@ -20,12 +20,12 @@ _*Both authors contributed equally._
 **Chenyuan Wu**, Haoyun Qin, Mohammad Javad Amiri, Boon Thau Loo, Dahlia Malkhi, Ryan Marcus <br />
 _22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2025._
 
-**BFTGym: An Interactive Playground for BFT Protocols** <br />
-Haoyun Qin, **Chenyuan Wu**, Mohammad Javad Amiri, Ryan Marcus, Boon Thau Loo <br />
-_50th conference on Very Large Databases (VLDB), Aug 2024._
-
 **Towards Full Stack Adaptivity in Permissioned Blockchains** <br />
 **Chenyuan Wu**, Mohammad Javad Amiri, Haoyun Qin, Bhavana Mehta, Ryan Marcus, Boon Thau Loo <br />
+_50th conference on Very Large Databases (VLDB), Aug 2024._
+
+**BFTGym: An Interactive Playground for BFT Protocols** <br />
+Haoyun Qin, **Chenyuan Wu**, Mohammad Javad Amiri, Ryan Marcus, Boon Thau Loo <br />
 _50th conference on Very Large Databases (VLDB), Aug 2024._
 
 **Towards Truly Adaptive Byzantine Fault-Tolerant Consensus** <br />
@@ -56,7 +56,7 @@ _23rd International Conference on Extending Database Technology, (EDBT), Apr 202
 
 ## Experiences
 **Nimble Ledgers, Jan. 2024 - Present** <br />
-Co-founder and CEO
+Co-founder and CEO of Stealth Mode Startup
 
 **Chainlink Labs, May 2023 - Dec. 2023** <br />
 Research Intern <br />
