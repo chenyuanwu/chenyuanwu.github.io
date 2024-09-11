@@ -67,9 +67,9 @@ Research Intern, Network Technology Lab
 CIS 553 online: Networked Systems, Fall 2021, Spring 2022 
 
 ## Service
-* Journal Reviewer: Transactions on Storage, Transactions on Dependable and Secure Computing
-* External Reviewer: CIKM 2022, WORDS 2021, CoNEXT 2020
-* Organizer: Distributed Systems Laboratory Seminar at UPenn, Fall 2022, Spring 2023
+* **Journal Reviewer:** Transactions on Storage, Transactions on Dependable and Secure Computing
+* **External Reviewer:** CIKM 2022, WORDS 2021, CoNEXT 2020
+* **Organizer:** Distributed Systems Laboratory Seminar at UPenn, Fall 2022, Spring 2023
 
 ## Awards
 * **NSDI Outstanding Paper Award**, 2024
