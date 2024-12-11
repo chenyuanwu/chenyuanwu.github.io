@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year computer science Ph.D. candidate at University of Pennsylvania, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I am a member of the Penn Database Group and the Distributed Systems Lab. I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/) and [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/). I am broadly interested in distributed data management, consensus protocols, and blockchains. My dissertation research focuses on Systems+AI, using machine learning to build the next generation of distributed systems that are adaptive and can be deployed in untrusted contexts.
+I received my Ph.D. in computer science from University of Pennsylvania in December 2024, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I am a member of the Penn Database Group and the Distributed Systems Lab. I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/) and [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/). I am broadly interested in distributed data management, consensus protocols, and blockchains. My dissertation research focuses on Systems+AI, using machine learning to build the next generation of distributed systems that are adaptive and can be deployed in untrusted contexts.
 
 ## Publications
 **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning** <br />
