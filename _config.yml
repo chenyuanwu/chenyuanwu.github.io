@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Chenyuan Wu"
 title_separator          : "-"
 name                     : &name "Chenyuan Wu"
-description              : &description "PhD Candidate in UPenn"
+description              : &description "PhD in Computer Science @ UPenn"
 url                      : "https://chenyuanwu.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenyuanwu.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "selfie_conference.png"
   name             : "Chenyuan Wu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in Computer Science @ UPenn"
+  bio              : "PhD in Computer Science @ UPenn"
   location         : "United States"
   employer         : 
   uri              : # URL
