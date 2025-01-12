@@ -1,10 +1,4 @@
 # main links links
 main:    
-  - title: "CV"
-    url: /CV.pdf
-  - title: "Research Statement"
-    url: /Research_Statement.pdf
-  - title: "Teaching Statement"
-    url: /Teaching_Statement.pdf
   - title: "Blog Posts"
     url: /year-archive/
