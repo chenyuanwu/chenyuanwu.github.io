@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. in computer science from University of Pennsylvania in December 2024, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I am a member of the Penn Database Group and the Distributed Systems Lab. I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/) and [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/). I am broadly interested in distributed data management, consensus protocols, and blockchains. My dissertation research focuses on Systems+AI, using machine learning to build the next generation of distributed systems that are adaptive and can be deployed in untrusted contexts.
+I received my Ph.D. in computer science from University of Pennsylvania in December 2024, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/) and [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/). My research interest mainly lies in blockchains and AI-driven systems. I am especially interested in using machine learning to build the next generation of decentralized systems that are adaptive and smart. In pursuit of this goal, I have researched and published across the system stack, from adaptive transaction management to adaptive Byzantine fault-tolerant consensus and their underlying infrastructure. 
+
+
 
 ## Publications
 **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning** <br />
@@ -20,7 +22,8 @@ _22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI), Ap
 _50th conference on Very Large Databases (VLDB), Aug 2024._
 
 **BFTGym: An Interactive Playground for BFT Protocols** <br />
-Haoyun Qin, **Chenyuan Wu**, Mohammad Javad Amiri, Ryan Marcus, Boon Thau Loo <br />
+Haoyun Qin, **Chenyuan Wu**\*, Mohammad Javad Amiri, Ryan Marcus, Boon Thau Loo <br />
+*Corresponding author. Mentored and supervised the first author. <br />
 _50th conference on Very Large Databases (VLDB), Aug 2024._
 
 **The Bedrock of Byzantine Fault Tolerance: A Unified Platform for BFT Protocols Analysis, Implementation, and Experimentation** <br />
@@ -52,7 +55,7 @@ _23rd International Conference on Extending Database Technology, (EDBT), Apr 202
 ## Preprints
 **On Orchestrating Parallel Broadcasts for Distributed Ledgers** <br />
 Peiyao Sheng\*, **Chenyuan Wu**\*, Dahlia Malkhi, Michael K. Reiter, Chrysoula Stathakopoulou, Michael Wei, Maofan Yin <br />
-_*Both authors contributed equally._
+*Both authors contributed equally.
 
 ## Professional Experience
 **Chainlink Labs, May 2023 - Dec. 2023** <br />
@@ -65,6 +68,20 @@ Research Intern, Network Technology Lab
 ## Teaching
 **Course Designer and Teaching Assistant** <br />
 CIS 553 online: Networked Systems, Fall 2021, Spring 2022 
+
+## Talks
+**AI-driven Adaptive Distributed Systems in Untrusted Environments** <br />
+Job talk, October - December 2024 <br />
+NTU, CityU HK, HKUST(GZ), CUHK(SZ), SUTD, ShanghaiTech
+
+**On Orchestrating Parallel Broadcasts for Distributed Ledgers** <br />
+Invited talk, UC Davis, Virtual, November 2023
+
+**AdaChain: A Learned Adaptive Blockchain** <br />
+VLDB 2023, Vancouver, August 2023
+
+**FlexChain: An Elastic Disaggregated Blockchain** <br />
+VLDB 2023, Vancouver, August 2023
 
 ## Service
 * **Journal Reviewer:** IEEE/ACM Transactions on Networking (CCF-A), Transactions on Storage (CCF-A), Transactions on Dependable and Secure Computing (CCF-A), Transactions on Computers (CCF-A)
