@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. in computer science from University of Pennsylvania in December 2024, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/) and [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/). My research interest mainly lies in blockchains and AI-driven systems. I am especially interested in using machine learning to build the next generation of decentralized systems that are adaptive and smart. In pursuit of this goal, I have researched and published across the system stack, from adaptive transaction management to adaptive Byzantine fault-tolerant consensus and their underlying infrastructure. 
+I am an incoming Assistant Professor in the [Department of Computer Science](https://www.cs.cityu.edu.hk) at City Universtiy of Hong Kong (CityU). Prior to that, I received my Ph.D. in computer science from University of Pennsylvania in December 2024, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/) and [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/). My research interest mainly lies in blockchains and AI-driven systems. I am especially interested in using machine learning to build the next generation of decentralized systems that are adaptive and smart. In pursuit of this goal, I have researched and published across the system stack, from adaptive transaction management to adaptive Byzantine fault-tolerant consensus and their underlying infrastructure. 
 
+🔥 I am looking for strongly motivated PhD students (Fall 2025), research assistants, and summer interns. Interested applicants please email me with your CV and transcript at wucy@seas.upenn.edu.
 
 
 ## Publications
