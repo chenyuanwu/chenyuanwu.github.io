@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the [Department of Computer Science](https://www.cs.cityu.edu.hk) at City Universtiy of Hong Kong (CityU). Prior to that, I received my Ph.D. in computer science from University of Pennsylvania in December 2024, advised by [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu). I also work closely with [Prof. Dahlia Malkhi (Chainlink Labs & UCSB)](https://malkhi.com/about/), [Prof. Ryan Marcus (UPenn)](https://rmarcus.info/blog/) and [Prof. Mohammad Javad Amiri (Stony Brook University)](https://www3.cs.stonybrook.edu/~amiri/). My research interest mainly lies in blockchains and AI-driven systems. I am especially interested in using machine learning to build the next generation of decentralized systems that are adaptive and smart. In pursuit of this goal, I have researched and published across the system stack, from adaptive transaction management to adaptive Byzantine fault-tolerant consensus and their underlying infrastructure. 
 
-🔥 **I am looking for strongly motivated PhD students, research assistants, and summer interns. Interested applicants please email me with your CV and transcript at wucy@seas.upenn.edu.**
+🔥 **I am looking for strongly motivated PhD students, research assistants, and summer interns. Interested applicants please email me with your CV and transcript at chenyuan.wu@cityu.edu.hk.**
 
 
 ## Publications
@@ -73,7 +73,7 @@ CIS 553 online: Networked Systems, Fall 2021, Spring 2022
 ## Talks
 **AI-driven Adaptive Distributed Systems in Untrusted Environments** <br />
 Job talk, October - December 2024 <br />
-NTU, CityU HK, HKUST(GZ), CUHK(SZ), SUTD, ShanghaiTech
+NUS(invited), NTU, CityU HK, HKUST(GZ), CUHK(SZ), SUTD, ShanghaiTech
 
 **On Orchestrating Parallel Broadcasts for Distributed Ledgers** <br />
 Invited talk, UC Davis, Virtual, November 2023
@@ -85,6 +85,7 @@ VLDB 2023, Vancouver, August 2023
 VLDB 2023, Vancouver, August 2023
 
 ## Service
+* **Conference Reviewer:** aiDM @ SIGMOD 2025
 * **Journal Reviewer:** IEEE/ACM Transactions on Networking (CCF-A), Transactions on Storage (CCF-A), Transactions on Dependable and Secure Computing (CCF-A), Transactions on Computers (CCF-A)
 * **External Reviewer:** CIKM 2022, WORDS 2021, CoNEXT 2020
 * **Organizer:** Distributed Systems Laboratory Seminar at UPenn, Fall 2022, Spring 2023
@@ -94,6 +95,6 @@ VLDB 2023, Vancouver, August 2023
 * **VLDB Travel Award**, 2023
 * **EDBT Best Paper Award**, 2020
 * **Ph.D. Fellowship**, University of Pennsylvania, 2020
-* **President’s Scholarship**, 10 out of 15,000 in Beijing Jiaotong University, 2019
+* **President’s Scholarship**, 10 out of 15,000 in Beijing Jiaotong University, ranked #1, 2019
 * **Chinese National Scholarship**, highest honor for undergraduates, top 0.2% nation wide, 2019 & 2017
 * **Second Prize in the National College Physics Competition**, 2017
