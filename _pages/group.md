@@ -1,16 +1,16 @@
 ---
 permalink: /group/
-title: "Research Group"
+title: "SID Lab"
 author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+Our research group works in the areas (and intersections) of Systems, Intelligence, and Decentralization.
 
-Heading 1
-======
+## PhD Students
+TBA
 
-Heading 2
-======
+## Research Assistants
+TBA
