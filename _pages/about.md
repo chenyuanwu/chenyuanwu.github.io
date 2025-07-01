@@ -85,7 +85,7 @@ VLDB 2023, Vancouver, August 2023
 VLDB 2023, Vancouver, August 2023
 
 ## Service
-* **Conference Reviewer:** aiDM @ SIGMOD 2025
+* **Conference Reviewer:** SoCC 2025, aiDM @ SIGMOD 2025
 * **Journal Reviewer:** IEEE/ACM Transactions on Networking (CCF-A), Transactions on Storage (CCF-A), Transactions on Dependable and Secure Computing (CCF-A), Transactions on Computers (CCF-A)
 * **External Reviewer:** CIKM 2022, WORDS 2021, CoNEXT 2020
 * **Organizer:** Distributed Systems Laboratory Seminar at UPenn, Fall 2022, Spring 2023
