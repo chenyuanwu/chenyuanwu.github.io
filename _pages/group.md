@@ -16,7 +16,11 @@ Our research group works in the areas (and intersections) of Systems, Intelligen
   - B.S. in Information Engineering, Sun Yat-sen University; M.S. in Information Technology, HKUST
 
 ## Research Assistants
-- Liangrong Chen (full-time)
+- Liangrong Chen
   - B.S. in Computer Science, South China University of Technology; rank 4th/163
-- Yue Zhang (part-time)
-  - B.S. in Data Science, University of Waterloo, GPA 3.9/4.0; M.S. in Computer Science (ongoing), New York University Courant
+
+## Interns
+- Yue Zhang
+  - B.S. in Data Science, University of Waterloo; M.S. in Computer Science (ongoing), New York University Courant
+- Yiran An
+  - B.S. in Computer Science, Nankai University
