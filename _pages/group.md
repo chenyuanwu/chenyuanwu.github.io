@@ -9,15 +9,21 @@ redirect_from:
 
 Our research group works in the areas (and intersections) of Systems, Intelligence, and Decentralization.
 
-## PhD Students
+## Graduate Students
 - [Chenlin Wu](https://michael112233.github.io)
   - B.S. in Software Engineering, Sun Yat-sen University; GPA 91.11/100
 - [Zichun Cai](https://zichun-cai.github.io) (joint PhD program with Shenzhen Loop Area Institute)
-  - B.S. in Information Engineering, Sun Yat-sen University; M.S. in Information Technology, HKUST
-
-## Research Assistants
+  - B.S. in Information Engineering, Sun Yat-sen University
+  - M.S. in Information Technology, HKUST
 - Liangrong Chen
   - B.S. in Computer Science, South China University of Technology; rank 4th/163
+- Yan Wen (Top Universities Studentship Scheme)
+  - B.S. in Electronic Information Science and Technology, Fudan University; GPA 91/100
+- Jiongran Cai (joint PhD program with Shenzhen Loop Area Institute)
+  - B.S. in Information Engineering, Zhejiang University
+- Ru Cheng 
+  - B.S. in Electronic Information Engineering, Huazhong University of Science and Technology; GPA 3.94/4.0
+  - M.S. in Computer Science and Techonology, Huazhong University of Science and Technology
 
 ## Interns
 - Yue Zhang
