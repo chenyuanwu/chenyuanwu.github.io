@@ -17,7 +17,9 @@ Our research group works in the areas (and intersections) of Systems, Intelligen
   - M.S. in Information Technology, HKUST
 - Liangrong Chen
   - B.S. in Computer Science, South China University of Technology; rank 4th/163
-- Yan Wen (Top Universities Studentship Scheme)
+- Pengcheng Wang (Awarded Top Universities Studentship Scheme)
+  - B.S. in Big Data, Harbin Institute of Technology
+- Yan Wen (Awarded Top Universities Studentship Scheme)
   - B.S. in Electronic Information Science and Technology, Fudan University; GPA 91/100
 - Jiongran Cai (joint PhD program with Shenzhen Loop Area Institute)
   - B.S. in Information Engineering, Zhejiang University
