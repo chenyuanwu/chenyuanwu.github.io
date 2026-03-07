@@ -25,7 +25,7 @@ Our research group works in the areas (and intersections) of Systems, Intelligen
   - B.S. in Electronic Information Engineering, Huazhong University of Science and Technology; GPA 3.94/4.0
   - M.S. in Computer Science and Techonology, Huazhong University of Science and Technolog
 - Yaxuan Li
-  - Joint PhD with University of Chinese Academy of Sciences (UCAS)
+  - Joint PhD scheme with University of Chinese Academy of Sciences (UCAS)
 
 ## Interns
 - Yue Zhang
