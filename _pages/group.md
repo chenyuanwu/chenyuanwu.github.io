@@ -21,11 +21,11 @@ Our research group works in the areas (and intersections) of Systems, Intelligen
   - B.S. in Big Data, Harbin Institute of Technology
 - Yan Wen (Awarded Top Universities Studentship Scheme)
   - B.S. in Electronic Information Science and Technology, Fudan University; GPA 91/100
-- Jiongran Cai (joint PhD program with Shenzhen Loop Area Institute)
-  - B.S. in Information Engineering, Zhejiang University
 - Ru Cheng 
   - B.S. in Electronic Information Engineering, Huazhong University of Science and Technology; GPA 3.94/4.0
-  - M.S. in Computer Science and Techonology, Huazhong University of Science and Technology
+  - M.S. in Computer Science and Techonology, Huazhong University of Science and Technolog
+- Yaxuan Li
+  - Joint PhD with University of Chinese Academy of Sciences (UCAS)
 
 ## Interns
 - Yue Zhang
