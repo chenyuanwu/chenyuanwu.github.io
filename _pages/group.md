@@ -23,7 +23,7 @@ Our research group works in the areas (and intersections) of Systems, Intelligen
   - B.S. in Electronic Information Science and Technology, Fudan University; GPA 91/100
 - Ru Cheng 
   - B.S. in Electronic Information Engineering, Huazhong University of Science and Technology; GPA 3.94/4.0
-  - M.S. in Computer Science and Techonology, Huazhong University of Science and Technolog
+  - M.S. in Computer Science and Technology, Huazhong University of Science and Technology
 - Yaxuan Li
   - Joint PhD scheme with University of Chinese Academy of Sciences (UCAS)
 
