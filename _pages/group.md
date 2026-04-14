@@ -15,6 +15,8 @@ Our research group works in the areas (and intersections) of Systems, Intelligen
 - [Zichun Cai](https://zichun-cai.github.io) (joint PhD program with Shenzhen Loop Area Institute)
   - B.S. in Information Engineering, Sun Yat-sen University
   - M.S. in Information Technology, HKUST
+- Jiongran Cai (joint PhD program with Shenzhen Loop Area Institute)
+  - B.S. in Information Engineering, Zhejiang University
 - Liangrong Chen
   - B.S. in Computer Science, South China University of Technology; rank 4th/163
 - Pengcheng Wang (Awarded Top Universities Studentship Scheme)
@@ -29,6 +31,6 @@ Our research group works in the areas (and intersections) of Systems, Intelligen
 
 ## Interns
 - Yue Zhang
-  - B.S. in Data Science, University of Waterloo; M.S. in Computer Science (ongoing), New York University Courant
+  - B.S. in Data Science, University of Waterloo; M.S. in Computer Science, New York University Courant
 - Yiran An
   - B.S. in Computer Science, Nankai University
