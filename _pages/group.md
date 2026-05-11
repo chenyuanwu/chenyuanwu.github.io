@@ -30,6 +30,8 @@ Our research group works in the areas (and intersections) of Systems, Intelligen
   - Joint PhD scheme with University of Chinese Academy of Sciences (UCAS)
 
 ## Interns
+- Xiaohua Cai
+  - Undergraduate in Computer Science, Tsinghua University
 - Yue Zhang
   - B.S. in Data Science, University of Waterloo; M.S. in Computer Science, New York University Courant
 - Yiran An
