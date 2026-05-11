@@ -31,7 +31,7 @@ Our research group works in the areas (and intersections) of Systems, Intelligen
 
 ## Interns
 - Xiaohua Cai
-  - Undergraduate in Computer Science, Tsinghua University
+  - Ongoing Undergraduate in Computer Science, Tsinghua University
 - Yue Zhang
   - B.S. in Data Science, University of Waterloo; M.S. in Computer Science, New York University Courant
 - Yiran An
