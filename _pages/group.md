@@ -9,7 +9,12 @@ redirect_from:
 
 Our research group works in the areas (and intersections) of Systems, Intelligence, and Decentralization.
 
-## Graduate Students
+## Postdocs
+- Dr. Huijuan Xiao
+  - Ph.D. in Software Engineering, Fudan University
+  - Research Interests: Serverless Computing, NoSQL, Key Value Store
+
+## PhD Students
 - [Chenlin Wu](https://michael112233.github.io)
   - B.S. in Software Engineering, Sun Yat-sen University; GPA 91.11/100
 - [Zichun Cai](https://zichun-cai.github.io) (joint PhD program with Shenzhen Loop Area Institute)
@@ -26,12 +31,17 @@ Our research group works in the areas (and intersections) of Systems, Intelligen
 - Ru Cheng 
   - B.S. in Electronic Information Engineering, Huazhong University of Science and Technology; GPA 3.94/4.0
   - M.S. in Computer Science and Technology, Huazhong University of Science and Technology
+- Jintao Liu
+  - B.S. from Dalian University of Technology
+  - M.S. from Monash University
 - Yaxuan Li
   - Joint PhD scheme with University of Chinese Academy of Sciences (UCAS)
 
 ## Interns
 - Xiaohua Cai
   - Ongoing Undergraduate in Computer Science, Tsinghua University
+- Jinxin Xiao
+  - Ongoing master's student in Electronic Information, HIT(Shenzhen)
 - Yue Zhang
   - B.S. in Data Science, University of Waterloo; M.S. in Computer Science, New York University Courant
 - Yiran An
