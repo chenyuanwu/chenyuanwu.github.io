@@ -12,6 +12,25 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 
 🔥 **I am looking for strongly motivated postdoctoral researchers, PhD students, research assistants, and summer interns. Interested applicants please email me with your CV and transcript at chenyuan.wu@cityu.edu.hk.**
 
+## Preprints
+**AutoPilot: Learning to Steer High Speed Robust BFT** <br />
+Liangrong Chen, Yue Zhang, Eric Zhou, Mohammad Javad Amiri, Ryan Marcus, **Chenyuan Wu** <br />
+
+**Skin in the Game: Pricing Insolvency Risk in Perpetual DEXs** <br />
+Pengcheng Wang, **Chenyuan Wu** <br />
+
+**MANTA: Unlocking DAG Flexibility in Asynchronous BFT** <br />
+Mohan Yu, Chenlin Wu, Jianyu Niu, Cong Wang, **Chenyuan Wu** <br />
+
+**Transaction Order Under Attack: Benchmarking MEV in DAG-based BFT Consensus Protocols** <br />
+Iliya Mirzaei, Zichun Cai, **Chenyuan Wu**, Mohammad Javad Amiri <br />
+
+**Chameleon: Performance-Aware Tunable Consistency** <br />
+Sidharth Bansal, **Chenyuan Wu**, Mohammad Javad Amiri <br />
+
+**On Orchestrating Parallel Broadcasts for Distributed Ledgers** <br />
+Peiyao Sheng\*, **Chenyuan Wu**\*, Dahlia Malkhi, Michael K. Reiter, Chrysoula Stathakopoulou, Michael Wei, Maofan Yin <br />
+*Both authors contributed equally.
 
 ## Publications
 **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning** <br />
@@ -52,11 +71,6 @@ _IEEE/ACM Transactions on Networking (ToN), 2022._
 Shaobo Wang, Hui Lyu, Jiachi Zhang, **Chenyuan Wu**, Xinyi Chen, Wenchao Zhou, Boon Thau Loo, Susan B. Davidson, and Chen Chen <br />
 _23rd International Conference on Extending Database Technology, (EDBT), Apr 2020. <br />
 🏆**Best Paper Award**._
-
-## Preprints
-**On Orchestrating Parallel Broadcasts for Distributed Ledgers** <br />
-Peiyao Sheng\*, **Chenyuan Wu**\*, Dahlia Malkhi, Michael K. Reiter, Chrysoula Stathakopoulou, Michael Wei, Maofan Yin <br />
-*Both authors contributed equally.
 
 ## Professional Experience
 **Chainlink Labs, May 2023 - Dec. 2023** <br />
