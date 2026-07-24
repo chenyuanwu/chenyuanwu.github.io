@@ -19,9 +19,6 @@ Liangrong Chen, Yue Zhang, Eric Zhou, Mohammad Javad Amiri, Ryan Marcus, **Cheny
 **Skin in the Game: Pricing Insolvency Risk in Perpetual DEXs** <br />
 Pengcheng Wang, **Chenyuan Wu** <br />
 
-**MANTA: Unlocking DAG Flexibility in Asynchronous BFT** <br />
-Mohan Yu, Chenlin Wu, Jianyu Niu, Cong Wang, **Chenyuan Wu** <br />
-
 **Transaction Order Under Attack: Benchmarking MEV in DAG-based BFT Consensus Protocols** <br />
 Iliya Mirzaei, Zichun Cai, **Chenyuan Wu**, Mohammad Javad Amiri <br />
 
@@ -33,6 +30,10 @@ Peiyao Sheng\*, **Chenyuan Wu**\*, Dahlia Malkhi, Michael K. Reiter, Chrysoula S
 *Both authors contributed equally.
 
 ## Publications
+**MANTA: Unlocking DAG Flexibility in Asynchronous BFT** <br />
+Mohan Yu, Chenlin Wu, Jianyu Niu, Cong Wang, **Chenyuan Wu** <br />
+_24th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2027._
+
 **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning** <br />
 **Chenyuan Wu**, Haoyun Qin, Mohammad Javad Amiri, Boon Thau Loo, Dahlia Malkhi, Ryan Marcus <br />
 _22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2025._
