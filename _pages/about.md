@@ -13,6 +13,12 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 🔥 **I am looking for strongly motivated postdoctoral researchers, PhD students, research assistants, and summer interns. Interested applicants please email me with your CV and transcript at chenyuan.wu@cityu.edu.hk.**
 
 ## Preprints
+**EVAge: Autonomous MEV Generation and Adaptation via Multi-Agent Harness** <br />
+Yan Wen, Zichun Cai, Iliya Mirzaei, Xiaohua Cai, Mohammad Javad Amiri, Haoxian Chen, **Chenyuan Wu** <br />
+
+**Competition, Collusion, and Corruption: The Full Spectrum of MEV Attacks on DAG-Based BFT Consensus Protocols** <br />
+Iliya Mirzaei, Heer Patel, **Chenyuan Wu**, Mohammad Javad Amiri <br />
+
 **AutoPilot: Learning to Steer High Speed Robust BFT** <br />
 Liangrong Chen, Yue Zhang, Eric Zhou, Mohammad Javad Amiri, Ryan Marcus, **Chenyuan Wu** <br />
 
