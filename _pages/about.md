@@ -25,9 +25,6 @@ Liangrong Chen, Yue Zhang, Eric Zhou, Mohammad Javad Amiri, Ryan Marcus, **Cheny
 **Skin in the Game: Pricing Insolvency Risk in Perpetual DEXs** <br />
 Pengcheng Wang, **Chenyuan Wu** <br />
 
-**Transaction Order Under Attack: Benchmarking MEV in DAG-based BFT Consensus Protocols** <br />
-Iliya Mirzaei, Zichun Cai, **Chenyuan Wu**, Mohammad Javad Amiri <br />
-
 **Chameleon: Performance-Aware Tunable Consistency** <br />
 Sidharth Bansal, **Chenyuan Wu**, Mohammad Javad Amiri <br />
 
@@ -36,6 +33,10 @@ Peiyao Sheng\*, **Chenyuan Wu**\*, Dahlia Malkhi, Michael K. Reiter, Chrysoula S
 *Both authors contributed equally.
 
 ## Publications
+**Transaction Order Under Attack: Benchmarking MEV in DAG-based BFT Consensus Protocols** <br />
+Iliya Mirzaei, Zichun Cai, **Chenyuan Wu**, Mohammad Javad Amiri <br />
+_ACM SIGMOD International Conference on Management of Data, June 2027._
+
 **MANTA: Unlocking DAG Flexibility in Asynchronous BFT** <br />
 Mohan Yu, Chenlin Wu, Jianyu Niu, Cong Wang, **Chenyuan Wu** <br />
 _24th USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2027._
@@ -112,6 +113,7 @@ VLDB 2023, Vancouver, August 2023
 * **Organizer:** Distributed Systems Laboratory Seminar at UPenn, Fall 2022, Spring 2023
 
 ## Awards
+* **Hong Kong RGC Early Career Award**, 2026
 * **NSDI Outstanding Paper Award**, 2024
 * **VLDB Travel Award**, 2023
 * **EDBT Best Paper Award**, 2020
