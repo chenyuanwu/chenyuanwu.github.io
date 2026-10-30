@@ -13,6 +13,9 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 🔥 **I am looking for strongly motivated postdoctoral researchers, PhD students, research assistants, and summer interns. Interested applicants please email me with your CV and transcript at chenyuan.wu@cityu.edu.hk.**
 
 ## Preprints
+**SeChain: Accelerating Blockchain Transaction Processing via State-Decoupled Symbolic Execution** <br />
+Ru Cheng, Maofan Yin, Liangrong Chen, Lizan Zhou, **Chenyuan Wu** <br />
+
 **EVAge: Autonomous MEV Generation and Adaptation via Multi-Agent Harness** <br />
 Yan Wen, Zichun Cai, Iliya Mirzaei, Xiaohua Cai, Mohammad Javad Amiri, Haoxian Chen, **Chenyuan Wu** <br />
 
