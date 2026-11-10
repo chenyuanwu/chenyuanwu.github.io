@@ -13,6 +13,9 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 🔥 **I am looking for strongly motivated postdoctoral researchers, PhD students, research assistants, and summer interns. Interested applicants please email me with your CV and transcript at chenyuan.wu@cityu.edu.hk.**
 
 ## Preprints
+**Correctness Firewalls for Synthesized Database Components** <br />
+Mohammad Javad Amiri, Carsten Binnig, Andreas Kipf, Tim Kraska, Ryan Marcus, Johannes Wehrstein, **Chenyuan Wu**, Geoffrey X. Yu, Zijie Zhao <br />
+
 **SeChain: Accelerating Blockchain Transaction Processing via State-Decoupled Symbolic Execution** <br />
 Ru Cheng, Maofan Yin, Liangrong Chen, Lizan Zhou, **Chenyuan Wu** <br />
 
